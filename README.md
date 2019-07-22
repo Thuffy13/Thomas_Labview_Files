@@ -20,3 +20,7 @@ These vi's are used for measuring the speed of the machine wheel as well as read
 ## Contributing
 
 Any contributions and commits are welcome. If you would like to make a major change please open an ssue so the change may be discussed.
+
+## License
+
+These vi's as well as any commits or changes to these vi's are the property of Tennant Company. Please contact me or another author to discuss other usage questions.
