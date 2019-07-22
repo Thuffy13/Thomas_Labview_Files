@@ -4,7 +4,13 @@ This repository will act to place all of the labivew vi's created over the summe
 
 ## Installation
 
-The necessary dependencies for these labview vi's include installing LabVIEW through the national Intruments website. Within LabVIEW you will also need to install the NI-DAWmx driver as well as the CANOpen - Industrial Communications driver.
+The necessary dependencies for these labview vi's include installing LabVIEW through the national Intruments website. Within LabVIEW you will also need to install the NI-DAQmx driver as well as the CANOpen - Industrial Communications driver.
+
+If you have the VI package manager you may wish to simply
+'''bash
+install CANOpen - Industrial Communications
+install NI-DAQmx
+'''
 
 ## Usage
 
