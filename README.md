@@ -8,10 +8,10 @@ The necessary dependencies for these labview vi's include installing LabVIEW thr
 
 If you have the VI package manager you may wish to simply
 
-'''
+```bash
 install CANOpen - Industrial Communications
 install NI-DAQmx
-'''
+```
 
 ## Usage
 
